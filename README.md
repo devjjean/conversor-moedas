@@ -1,5 +1,5 @@
 # Conversor de Moedas
-Este é um projeto de conversor de moedas simples desenvolvido com [HTML, CSS e JavaScript]. O conversor permite converter valores entre diferentes moedas com base nas taxas de câmbio mais recentes.
+Este é um projeto de conversor de moedas simples desenvolvido com HTML, CSS e JavaScript. O conversor permite converter valores entre diferentes moedas com base nas taxas de câmbio mais recentes.
 
 # Demonstração
 Você pode visualizar uma demonstração ao vivo do conversor de moedas [aqui]([link](https://devjjean.github.io/conversor-moedas/)).
